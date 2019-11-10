@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DNetApp</string>
+    <string name="OWM_API_KEY">683d18988d919751af2af4c0dd349bf3</string>
+    <string name="OCD_API_KEY">7fdcee313796409db890d2c50e373984</string>
+</resources>
